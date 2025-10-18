@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About Mika"
 author: "Paul Le"
 categories: facts
 tags: [sample]
